@@ -47,6 +47,7 @@ li{
     overflow-wrap:break-word;
     list-style-type:none;
     border-radius: 5px;
+    padding: 5px;
 }
 
 #leftpanel li{
